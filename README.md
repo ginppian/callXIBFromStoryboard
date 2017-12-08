@@ -1,6 +1,10 @@
 Call a Xib from Storyboard
 ========
 
+<p align="justify">
+	We create a new Xcode Project. We used Xcoe 9.2 and Swift 4
+</p>
+
 <p align="center">
 	<img src="imgs/img1.png" width="720" height="450">
 </p>
