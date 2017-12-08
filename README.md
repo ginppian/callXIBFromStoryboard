@@ -9,6 +9,10 @@ Call a Xib from Storyboard
 	<img src="imgs/img1.png" width="720" height="450">
 </p>
 
+<p align="justify">
+	Add a button with a Action
+</p>
+
 <p align="center">
 	<img src="imgs/img2.png" width="720" height="450">
 </p>
@@ -19,6 +23,10 @@ Call a Xib from Storyboard
 
 <p align="center">
 	<img src="imgs/img4.png" width="720" height="450">
+</p>
+
+<p align="justify">
+	We create a new ViewController from <i>Cocoa Touch Class</i> with XIB file
 </p>
 
 <p align="center">
@@ -33,12 +41,20 @@ Call a Xib from Storyboard
 	<img src="imgs/img7.png" width="720" height="450">
 </p>
 
+<p align="justify">
+	Embed in <i>Navigation Controller</i>
+</p>
+
 <p align="center">
 	<img src="imgs/img8.png" width="720" height="450">
 </p>
 
 <p align="center">
 	<img src="imgs/img9.png" width="720" height="450">
+</p>
+
+<p align="justify">
+	Push MyXibViewController in Navigation
 </p>
 
 <p align="center">
